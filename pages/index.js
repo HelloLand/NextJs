@@ -13,7 +13,7 @@ function HomePage(props) {
           content="Jeff H. made me make this app!"
         />
       </Head>
-      <MeetupList meetups={props.meetups} />;
+      <MeetupList meetups={props.meetups} />
     </Fragment>
   );
 }
