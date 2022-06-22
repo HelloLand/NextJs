@@ -4,7 +4,7 @@
 
 .detail img {
     width: 100%;
-    animation: fadeIn 4s;
+    animation: fadeIn 3s;
 }
 
 @keyframes fadeIn {
